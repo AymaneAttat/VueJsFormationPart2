@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learn Angular",
+      "slug": "learn-angular",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati, quibusdam."
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "slug": "learn-react",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati, quibusdam."
+    },
+    {
+      "id": 3,
+      "title": "Learn Spring Boot",
+      "slug": "learn-spring-boot",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati, quibusdam."
+    },
+    {
+      "id": 4,
+      "title": "Learn Laravel",
+      "slug": "learn-laravel",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati, quibusdam."
+    },
+    {
+      "title": "Learn Git",
+      "content": "this is git/github",
+      "slug": "learn-git",
+      "id": 5
+    }
+  ]
+}
